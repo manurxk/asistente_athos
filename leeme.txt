@@ -1,0 +1,5 @@
+instalar las bibliotecas que te sugieren en cada import
+la version chattbot=1.0.4
+
+
+se ejecuta el archivo de athos_guitt.py

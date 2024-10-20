@@ -1,0 +1,11 @@
+Flask
+requests
+SQLAlchemy
+psycopg2
+pyttsx3
+Pillow
+pytest
+numpy
+pandas
+Flask-SQLAlchemy
+Flask-WTF
